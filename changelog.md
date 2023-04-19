@@ -1,3 +1,7 @@
+# 2.0.4
+
+- Mark all peerDependencies as optional
+
 # 2.0.3
 
 - Fix peerDependencies and remove unused dependencies
